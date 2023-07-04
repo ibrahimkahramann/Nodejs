@@ -34,3 +34,8 @@ const showContents = async () => {
 }
 
 showContents();
+
+console.log("baska islemler...\n");
+console.log("baska islemler...\n");
+console.log("baska islemler...\n");
+console.log("baska islemler...\n");
