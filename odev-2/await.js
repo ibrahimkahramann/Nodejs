@@ -35,7 +35,6 @@ const showContents = async () => {
 
 showContents();
 
-console.log("baska islemler...\n");
-console.log("baska islemler...\n");
-console.log("baska islemler...\n");
-console.log("baska islemler...\n");
+setTimeout(() => {console.log("baska islemler...\n");},500);
+setTimeout(() => {console.log("baska islemler...\n");},1000);
+setTimeout(() => {console.log("baska islemler...\n");},1500);
